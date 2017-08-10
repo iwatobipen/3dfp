@@ -7,6 +7,6 @@
 - mmh3
 - python_utilities
 
-# install
-conda install -c sdaxen sdaxen_python_utilities 
-conda install -c keiserlab e3fp
+# how to install
+- conda install -c sdaxen sdaxen_python_utilities 
+- conda install -c keiserlab e3fp
